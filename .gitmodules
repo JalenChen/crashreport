@@ -1,3 +1,6 @@
 [submodule "jep"]
 	path = jep
 	url = https://github.com/jenkinsci/jep.git
+[submodule "symtabfileuploader"]
+	path = symtabfileuploader
+	url = https://github.com/JalenChen/symtabfileuploader.git
