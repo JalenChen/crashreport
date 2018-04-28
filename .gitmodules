@@ -1,0 +1,3 @@
+[submodule "jep"]
+	path = jep
+	url = https://github.com/jenkinsci/jep.git
